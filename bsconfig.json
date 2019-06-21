@@ -1,0 +1,7 @@
+{
+  "name": "reason-react-todo",
+  "reason": {"react-jsx": 3},
+  "refmt": 3,
+  "bs-dependencies": ["reason-react"],
+  "sources": "src"
+}
